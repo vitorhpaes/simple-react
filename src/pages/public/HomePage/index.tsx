@@ -1,6 +1,6 @@
 import { Box } from '@mui/material'
 import { useEffect } from 'react'
-import fetchSearchGiphs from './../../../services/giphy/requests/trending';
+import fetchSearchGiphs from './../../../services/giphy/requests/search';
 import { useState } from 'react';
 import { GiphyProps } from '../../../services/giphy/giphy';
 import { TextField } from '@mui/material';
