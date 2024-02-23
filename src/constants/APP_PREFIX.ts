@@ -1,1 +1,1 @@
-export const APP_PREFIX = '@SIMPLE_REACT'
+export const APP_PREFIX = 'SIMPLE_REACT'
